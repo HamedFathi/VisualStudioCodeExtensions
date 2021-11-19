@@ -12,6 +12,7 @@
 
 * **Git**
     * [Git Graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph)
+    * [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
     
 * **Linter/Formatter**
     * [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)

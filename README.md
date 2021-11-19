@@ -19,6 +19,7 @@
     * [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 
 * **Misc**
+   * [Coverage Gutters](https://marketplace.visualstudio.com/items?itemName=ryanluker.vscode-coverage-gutters)
    * [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
    * [VSCode Icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons)
     

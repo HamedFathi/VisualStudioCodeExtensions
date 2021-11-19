@@ -17,6 +17,9 @@
 * **Linter/Formatter**
     * [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
     * [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+
+* **VSCode*
+* [VSCode Icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons)
     
 * **Web**
     * [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)

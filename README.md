@@ -18,7 +18,8 @@
     * [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
     * [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 
-* **VSCode**
+* **Misc**
+   * [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
    * [VSCode Icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons)
     
 * **Web**

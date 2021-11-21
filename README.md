@@ -26,6 +26,7 @@
    * [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
    * [REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client)
    * [Version Lens](https://marketplace.visualstudio.com/items?itemName=pflannery.vscode-versionlens)
+   * [Visual Studio IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode)
    * [VSCode Icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons)
    * [VSCode Proto3](https://marketplace.visualstudio.com/items?itemName=zxh404.vscode-proto3)
     

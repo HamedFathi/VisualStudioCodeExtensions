@@ -4,7 +4,10 @@
     * [Angular Language Service](https://marketplace.visualstudio.com/items?itemName=Angular.ng-template)
 
 * **C#**
+    * [.NET Core Add Reference](https://marketplace.visualstudio.com/items?itemName=adrianwilczynski.add-reference)
     * [.NET Core Test Explorer](https://marketplace.visualstudio.com/items?itemName=formulahendry.dotnet-test-explorer)
+    * [.NET Core Tools](https://marketplace.visualstudio.com/items?itemName=formulahendry.dotnet)
+    * [.NET Core User Secrets](https://marketplace.visualstudio.com/items?itemName=adrianwilczynski.user-secrets)
     * [Microsoft C#](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp)     
 
 * **CSS**

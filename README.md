@@ -8,6 +8,8 @@
     * [.NET Core Test Explorer](https://marketplace.visualstudio.com/items?itemName=formulahendry.dotnet-test-explorer)
     * [.NET Core Tools](https://marketplace.visualstudio.com/items?itemName=formulahendry.dotnet)
     * [.NET Core User Secrets](https://marketplace.visualstudio.com/items?itemName=adrianwilczynski.user-secrets)
+    * [ASP.NET Core Switcher](https://marketplace.visualstudio.com/items?itemName=adrianwilczynski.asp-net-core-switcher)
+    * [Blazor Snippet Pack](https://marketplace.visualstudio.com/items?itemName=adrianwilczynski.blazor-snippet-pack)
     * [Microsoft C#](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp)     
 
 * **CSS**
